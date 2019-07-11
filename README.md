@@ -19,7 +19,7 @@ The App will display Flickr photos that have tags matching terms on three button
 To run this project locally, you must have node.js and npm installed.
 Download or clone the project from this repo.
 
-1) The project was created using the Create React App tool and React Router DOM 4 also installed.  You must run:
+1) The project was created using the Create React App tool and React Router DOM 4.  You must run:
 **npm install**
 
 2) Then Run **npm start** to start the server and application. When you see the 'Compiled successfully!' message, you can view the site in your browser at: **localhost:3000** 
