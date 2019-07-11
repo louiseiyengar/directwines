@@ -1,0 +1,113 @@
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Oxygen",
+    "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue",
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
+    monospace;
+}
+
+span.required {
+  color: red;
+}
+
+.main-content {
+  color: #222;
+  margin-top: 20%;
+}
+
+#divZipInput {
+  display: inline-block;
+  width: 30%;
+}
+
+#divZipInput label {
+  font-size: 1.5rem;
+}
+
+#cityState {
+  display: inline-block;
+  margin-left: 1rem;
+  width: 65%;
+  font-size: 1.4rem;
+}
+
+#ctMessage {
+  margin-top: 1rem;
+  display: block;
+  width: 45%;
+  font-size: .9rem;
+  color: #555;
+}
+
+.initial {
+  font-style: italic;
+}
+
+.message {
+  font-style: normal;
+}
+/* Wine Form Styles */
+.main-content-wineforms {
+  color: #222;
+  margin: 1.5rem;
+}
+
+.section-header {
+  font-size: 2rem;
+  padding-bottom: 2rem;
+  border-bottom: 3px solid #d7182a;
+}
+
+span.step {
+  display: inline-block;
+  padding: .2rem;
+  background-color:  #d7182a;
+  color: white;
+  font-weight: 300;
+}
+
+span.triangle {
+  display: inline-block;
+  width: 0;
+  height: 0;
+  border-top: 30px solid transparent;
+  border-left: 25px solid #d7182a;
+  border-bottom: 25px solid transparent;
+  vertical-align: bottom;
+}
+
+span.step-name {
+  display: inline-block;
+  color: #d7182a;
+  font-family: "Whitney Cond SSm A","Whitney Cond SSm B",sans-serif;
+  font-weight: 600;
+}
+
+.main-content-wineforms p {
+  padding-top: 2rem;
+  font-size: 1.5rem;
+}
+
+.wine-select .wine-options {
+  display: block;
+  padding: .2rem;
+}
+
+.wine-options {
+  font-size: 1.2rem;
+}
+
+.wine-options a {
+  margin-left: .5rem;
+  font-weight: bold;
+}
+
+.wine-options input {
+  margin-right: .7rem;
+}
