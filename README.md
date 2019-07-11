@@ -1,9 +1,12 @@
 # Project for Direct wines
 
-The project required two pages that called api and displayed results:
+The project required two pages that called API's and displayed results:
+
 The project can be viewed on github pages:
+
 For the wine cases API:
 https://louiseiyengar.github.io/directwines/
+
 For the Zip Code API:
 https://louiseiyengar.github.io/directwines/#/zip
 
@@ -11,8 +14,6 @@ https://louiseiyengar.github.io/directwines/#/zip
 
 
 For this project, I used React, React Router DOM 4, and JavaScript's Fetch API interface.
-
-The App will display Flickr photos that have tags matching terms on three buttons -- you click a button to choose a term for photos that match that term.  There is also a search form so that you can view photos that match a term you enter.
 
 ======= Instuctions to view project locally =========
 
